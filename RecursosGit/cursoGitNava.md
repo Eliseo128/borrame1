@@ -11,4 +11,5 @@
 ## iniciamos
 - git init
 - git status
-- 
+- git add .
+- git commit -m " Mi primer commit"
